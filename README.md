@@ -26,7 +26,7 @@ A Power BI dashboard built on top of a MySQL database that presents clear insigh
 ### Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git https://github.com/muskan-musa-khan/blog-management-dashboard.git
 ```
 
 ### Import the database
