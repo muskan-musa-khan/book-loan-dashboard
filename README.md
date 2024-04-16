@@ -2,6 +2,11 @@
 
 A Power BI dashboard built on top of a MySQL database that presents clear insights into how books are borrowed over time. It helps review user borrowing activity by genre, author, title, and publication date. The dashboard is designed to support daily tracking and analysis of book loans within a Kanban style workflow.
 
+### Dashboard Overview
+![Dashboard Overview](/screenshot%202.png)
+![Dashboard Overview](/screenshot%203.png)
+![Dashboard Overview](/screenshot%204.png)
+
 ## Features
 
 - Overview of total book loans and active borrowers
